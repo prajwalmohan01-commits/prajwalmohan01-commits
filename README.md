@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 # 💫 About Me:
-👋 Hi, I'm Prajwal G N<br><br>🎓 MCA Student<br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com
+<br><br>🎓 MCA Student<br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com
 
 
 ## 🌐 Socials:
