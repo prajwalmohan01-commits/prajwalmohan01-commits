@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Prajwal G N
+# Hi, 👋 I'm Prajwal G N
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=A+passionate+developer+from+India;Full+Stack+Developer;Python+Developer;Django+%7C+Flask+Developer;Learning+React.js;Always+Building+Something+Awesome" />
 
