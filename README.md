@@ -63,5 +63,9 @@
 
 
 <div align="center">
-<h3>⭐ Thanks for visiting my profile!</h3>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"*
+
 </div>
