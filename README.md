@@ -12,7 +12,7 @@
 </div>
 
 ## 💫 About Me: <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-🎓 🇲​🇨​🇦​ 🇸​🇹​🇺​🇩​🇪​🇳​🇹​<br>💻 🇵​🇾​🇹​🇭​🇴​🇳​ | 🇯​🇦​🇻​🇦​🇸​🇨​🇷​🇮​🇵​🇹​ | 🇭​🇹​🇲​🇱​ | 🇨​🇸​🇸​ | 🇩​🇯​🇦​🇳​🇬​🇴​ | 🇫​🇱​🇦​🇸​🇰​<br>🗄️ 🇲​🇾​🇸​🇶​🇱​ | 🇸​🇶​🇱​ | 🇸​🇶​🇱​🇮​🇹​🇪​ <br>🚀 🇵​🇦​🇸​🇸​🇮​🇴​🇳​🇦​🇹​🇪​ 🇦​🇧​🇴​🇺​🇹​ 🇫​🇺​🇱​🇱​ 🇸​🇹​🇦​🇨​🇰​ 🇼​🇪​🇧​ 🇩​🇪​🇻​🇪​🇱​🇴​🇵​🇲​🇪​🇳​🇹​ 🇦​🇳​🇩​ 🇦​🇮​<br>🌱 🇨​🇺​🇷​🇷​🇪​🇳​🇹​🇱​🇾​ 🇱​🇪​🇦​🇷​🇳​🇮​🇳​🇬​ 🇷​🇪​🇦​🇨​🇹​.🇯​🇸​ 🇦​🇳​🇩​ 🇲​🇴​🇩​🇪​🇷​🇳​ 🇼​🇪​🇧​ 🇹​🇪​🇨​🇭​🇳​🇴​🇱​🇴​🇬​🇮​🇪​🇸​<br>📫 🇷​🇪​🇦​🇨​🇭​ 🇲​🇪​: prajwalmohan01@gmail.com​
+🎓 MCA Student<br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com​
 
 
 ## 🌐 Socials:
