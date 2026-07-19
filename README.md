@@ -56,6 +56,17 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+
+## 📈 Real-time Transmission
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalmohan01-commits&theme=github_dark" />
+
+<br>
+
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwalmohan01-commits&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
