@@ -61,9 +61,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalmohan01-commits&theme=github_dark" />
-
-<br>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalmohan01-commits&theme=github_dark&v=2" />
 
 </div>
 
