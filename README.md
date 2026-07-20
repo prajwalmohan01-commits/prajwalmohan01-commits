@@ -57,11 +57,11 @@
 </p>
 
 
-## 📈 Real-time Transmission
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalmohan01-commits&theme=github_dark&v=2" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalmohan01-commits&theme=tokyo-night&hide_border=true" />
 
 </div>
 
