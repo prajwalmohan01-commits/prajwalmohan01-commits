@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, 👋 I'm Prajwal G N
@@ -7,18 +6,18 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=prajwalmohan01-commits&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=prajwalmohan01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ## 💫 About Me: <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 🎓 MCA Student<br>💻 Python | JavaScript | HTML | CSS | Django | Flask<br>🗄️ MySQL | SQL | SQLite <br>🚀 Passionate about Full Stack Web Development and AI<br>🌱 Currently learning React.js and modern web technologies<br>📫 Reach me: prajwalmohan01@gmail.com​
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwalmohan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajwalmohan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalmohan01@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwalmohan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajwalmohan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalmohan01@gmail.com)
 
-## 💻 Tech Stack: 
+## 💻 Tech Stack:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -44,38 +43,36 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=prajwalmohan01-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=prajwalmohan01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prajwalmohan01-commits&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=prajwalmohan01&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalmohan01-commits&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalmohan01&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajwalmohan01-commits&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=prajwalmohan01&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
 
 <div align="center">
 
@@ -84,6 +81,3 @@
 *"Code • Learn • Build • Repeat"*
 
 </div>
-
-
-
