@@ -43,28 +43,27 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-## 📈 Contribution Stack
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=prajwalmohan01-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prajwalmohan01-commits&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajwalmohan01-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+
+## 📈 Real-time Transmission
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://yourinsights.vercel.app/api/insight?username=prajwalmohan01-commits&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
-  />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalmohan01-commits&theme=github_dark" />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://yourinsights.vercel.app/api/insight?username=prajwalmohan01-commits&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
-  />
-
-  <img
-    width="100%"
-    src="https://yourinsights.vercel.app/api/insight?username=prajwalmohan01-commits&theme=midnight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
-    alt="GitHub Contribution Stack"
-  />
-
-</picture>
+<br>
 
 </div>
 
