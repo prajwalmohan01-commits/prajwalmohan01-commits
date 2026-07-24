@@ -67,11 +67,6 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=prajwalmohan01&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 <div align="center">
 
